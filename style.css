@@ -87,6 +87,8 @@ h2{
 .sec2-blocks{
     display: flex;
     justify-content: center;
+    align-items: center;
+    height:300px;
     gap: 35px;
 }
 .block-p{
